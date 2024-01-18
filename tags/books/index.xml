@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>https://qu-bit1.github.io/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>books on Terminal</title>
+    <link>https://qu-bit1.github.io/tags/books/</link>
+    <description>Recent content in books on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2024 03:50:43 +0530</lastBuildDate><atom:link href="https://qu-bit1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 03:50:43 +0530</lastBuildDate><atom:link href="https://qu-bit1.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renaissance</title>
       <link>https://qu-bit1.github.io/posts/renaissance/renaissance/</link>
@@ -45,21 +45,6 @@ The film uses the &amp;rsquo;long take technique&amp;rsquo; in the film which wa
 &lt;p&gt;I really like that the camera movements are motivated by actions for example the camera acts as a quick pan to the teacher imitating the sudden movement of the eyes. The camera pans as it follows our main character, and it even pans back at the teacher after Antoine shakes his fist at the guys who got him caught. Think for a moment why that pan happened? If you remember your school days and you were doing something like passing &amp;lsquo;grass&amp;rsquo; - you never wanted to get caught and you&amp;rsquo;d always look at the teacher, to see if they&amp;rsquo;re looking. The camera pan is acting as your eyes. So after the shaken fist , you&amp;rsquo;d look at the teacher to see if he noticed it because you wouldn&amp;rsquo;t want to get caught.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;ok bye :) remind me to keep this blog alive&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Coffee</title>
-      <link>https://qu-bit1.github.io/posts/coffee/</link>
-      <pubDate>Thu, 17 Aug 2023 15:30:52 +0530</pubDate>
-      
-      <guid>https://qu-bit1.github.io/posts/coffee/</guid>
-      <description>everyone knows i adore good coffee but this is not about coffee(would turn into a coffee blog in future maybe)
-starting today you&amp;rsquo;ll hear my adventures not on a regular basis but yea i&amp;rsquo;ll rant once in a while, maybe this blog will die, who knows. writing this markdown in vim (now admit that i&amp;rsquo;m cool) and the theme somewhat resembles a terminal. istg i tried manipulating the css and i&amp;rsquo;ll not edit it further like it or not, i first wanted it to be a simple html page, but imposter syndrome kicked in(not gonna elaborate)</description>
-      <content>&lt;h3 id=&#34;everyone-knows-i-adore-good-coffee&#34;&gt;everyone knows i adore good coffee&lt;/h3&gt;
-&lt;p&gt;but this is not about coffee(would turn into a coffee blog in future maybe)&lt;/p&gt;
-&lt;p&gt;starting today you&amp;rsquo;ll hear my adventures &lt;strong&gt;not on a regular basis&lt;/strong&gt; but yea i&amp;rsquo;ll rant once in a while, maybe this blog will die, who knows. writing this markdown in &lt;em&gt;vim&lt;/em&gt; (now admit that i&amp;rsquo;m cool) and the theme somewhat resembles a terminal. istg i tried manipulating the css and i&amp;rsquo;ll not edit it further like it or not, i first wanted it to be a simple html page, but imposter syndrome kicked in(not gonna elaborate)&lt;/p&gt;
-&lt;p&gt;ok bye&lt;/p&gt;
 </content>
     </item>
     

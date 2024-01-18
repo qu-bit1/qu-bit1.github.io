@@ -1,50 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on terminal</title>
+    <title>whoami on Terminal</title>
     <link>https://qu-bit1.github.io/about/</link>
-    <description>Recent content in Abouts on terminal</description>
+    <description>Recent content in whoami on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Aug 2023 15:45:57 +0530</lastBuildDate><atom:link href="https://qu-bit1.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>whoami</title>
-      <link>https://qu-bit1.github.io/about/about/</link>
-      <pubDate>Thu, 17 Aug 2023 15:45:57 +0530</pubDate>
-      
-      <guid>https://qu-bit1.github.io/about/about/</guid>
-      <description>hello there and welcome to my terminal why this(a new conondrum) -&amp;gt; i made this to help you guys solve world problems
-i&amp;rsquo;m sagar arora from new delhi(maybe)
-i&amp;rsquo;m currently doing majors in biological sciences and bioengineering at IIT Kanpur.</description>
-      <content>&lt;h2 id=&#34;hello-there-and-welcome-to-my-terminal&#34;&gt;hello there and welcome to my terminal&lt;/h2&gt;
-&lt;p&gt;why this(a new conondrum) -&amp;gt; i made this to help you guys solve world problems&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;i&amp;rsquo;m sagar arora from new delhi(maybe)&lt;/p&gt;
-&lt;p&gt;i&amp;rsquo;m currently doing majors in biological sciences and bioengineering at IIT Kanpur.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;my interests:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;films (i have a mubi subscription)&lt;/li&gt;
-&lt;li&gt;reading? (currently reading &amp;lsquo;before the coffee gets cold&amp;rsquo;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://github.com/qu-bit1&#34;&gt;qubit&lt;/a&gt;&lt;/em&gt; interests:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;supercool ML stuff&lt;/li&gt;
-&lt;li&gt;linux&lt;/li&gt;
-&lt;li&gt;i like physics too - electro, optics stuff&lt;/li&gt;
-&lt;li&gt;math fascinates me (grades shows that i can only be fascinated)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;how i spend my day:
-sometimes stuck in a youtube rabbithole, and sometimes crawling the internet uncovering ~hidden mysteries~ to &lt;del&gt;waste my time&lt;/del&gt; and fill the ltd. amount of space with &lt;del&gt;irrelevent stuff&lt;/del&gt; in my head(ever heard about langlands?)&lt;/p&gt;
-</content>
-    </item>
-    
   </channel>
 </rss>
