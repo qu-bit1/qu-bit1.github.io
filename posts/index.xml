@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>https://qu-bit1.github.io/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>Posts on don&#39;t panic</title>
+    <link>https://qu-bit1.github.io/about/posts/</link>
+    <description>Recent content in Posts on don&#39;t panic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2024 03:50:43 +0530</lastBuildDate><atom:link href="https://qu-bit1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 03:50:43 +0530</lastBuildDate><atom:link href="https://qu-bit1.github.io/about/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renaissance</title>
-      <link>https://qu-bit1.github.io/posts/renaissance/renaissance/</link>
+      <link>https://qu-bit1.github.io/about/posts/renaissance/renaissance/</link>
       <pubDate>Fri, 19 Jan 2024 03:50:43 +0530</pubDate>
       
-      <guid>https://qu-bit1.github.io/posts/renaissance/renaissance/</guid>
+      <guid>https://qu-bit1.github.io/about/posts/renaissance/renaissance/</guid>
       <description>hello hello, missed me? i forgot i had a blog so here i am back after 6 monthish maybe? although i didn&amp;rsquo;t posted much in the start
 wannabe artist literature i wanted to get into literature after the tech meet, so i started reading books again but this time no sci-fi, no biographies or anything only literature, so i read &amp;lsquo;A thousand splendid suns&amp;rsquo; by Khaled Hosseini and i honestly liked it very much, it is a compelling but a heart-wrenching story of two women, both with distinct family background and about a generation apart, who were brought together under the same household through the tragic sweep of war.</description>
       <content>&lt;hr&gt;
@@ -49,10 +49,10 @@ The film uses the &amp;rsquo;long take technique&amp;rsquo; in the film which wa
     
     <item>
       <title>Coffee</title>
-      <link>https://qu-bit1.github.io/posts/coffee/</link>
+      <link>https://qu-bit1.github.io/about/posts/coffee/</link>
       <pubDate>Thu, 17 Aug 2023 15:30:52 +0530</pubDate>
       
-      <guid>https://qu-bit1.github.io/posts/coffee/</guid>
+      <guid>https://qu-bit1.github.io/about/posts/coffee/</guid>
       <description>everyone knows i adore good coffee but this is not about coffee(would turn into a coffee blog in future maybe)
 starting today you&amp;rsquo;ll hear my adventures not on a regular basis but yea i&amp;rsquo;ll rant once in a while, maybe this blog will die, who knows. writing this markdown in vim (now admit that i&amp;rsquo;m cool) and the theme somewhat resembles a terminal. istg i tried manipulating the css and i&amp;rsquo;ll not edit it further like it or not, i first wanted it to be a simple html page, but imposter syndrome kicked in(not gonna elaborate)</description>
       <content>&lt;h3 id=&#34;everyone-knows-i-adore-good-coffee&#34;&gt;everyone knows i adore good coffee&lt;/h3&gt;
